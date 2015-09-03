@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-2c733fda57ecc7517bf0c821e61dc9e1a4f8a0fc.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-fa22fa6bc387fa03aef7e9cceccd76e398975fd7.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/glide-3.6.1-b7cc0707c243fd410201ac426b1f01873a9b6467.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-f52ed885357c42e3734fe104cbbf15d8e27842f4.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-5d4ef9d92c3ef620c3339b28d1a90c2150bf5ce2.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-bac85668330dc56ad832c305ab14405d7d1ed55d.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.github.clans/fab/1.5.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="aaa2fcc429aaad555dbb17ac914b846ca234a3a5">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-230d0287e5e21566b7328d22be52b2161c1508d6.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/classes-57fe1ad8b7b1014eb018113ad0f8566aeae91e2c.jar" />
+    </item>
+    <item
+        jar="/Users/mahendraliya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mahendraliya/Documents/hackathon/quikr/QuikrCars/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-5fc6b5527b4d0633ee038276de28f51d6c62637a.jar" />
+    </item>
+
+</items>

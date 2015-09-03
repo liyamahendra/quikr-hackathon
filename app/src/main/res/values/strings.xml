@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Car Hub</string>
+
+    <string name="screen_title_car_details">Car Details</string>
+
+    <string name="action_get_api_hits">Get API Hits</string>
+    <string name="action_sort_by_price">Sort by Price</string>
+    <string name="action_sort_by_rating">Sort by Rating</string>
+
+    <string name="fab_api_hits">API Hits</string>
+    <string name="fab_sort_price">Sort by Price</string>
+    <string name="fab_sort_rating">Sort by Rating</string>
+
+    <string name="symbol_inr">₹</string>
+
+    <string name="dialog_loading_cars">Loading cars...</string>
+    <string name="dialog_getting_api_hits">Fetching API Hits...</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_message_loading">Loading...</string>
+
+    <string name="error_message_internet_not_available">Your device doesn\'t seem to be connected to the internet. Please check your network connectivity.</string>
+
+    <string name="display_brand">Brand:</string>
+    <string name="display_type">Type:</string>
+    <string name="display_engine_cc">Engine CC:</string>
+    <string name="display_mileage">Mileage:</string>
+    <string name="display_abs_exists">ABS:</string>
+    <string name="display_color">Colour:</string>
+
+    <!-- Demo Strings -->
+    <string name="demo_car_name">Jaguar F-Type</string>
+    <string name="demo_car_brand_and_type">Jaguar, Coupe</string>
+    <string name="demo_brand">Jaguar</string>
+    <string name="demo_type">Coupe</string>
+    <string name="demo_engine_cc">1196cc</string>
+    <string name="demo_mileage">18.16kpl</string>
+    <string name="demo_abs_exists">Yes</string>
+    <string name="demo_price">₹ 4.90L</string>
+    <string name="demo_description">Jaguar F-Type comes in following 5 versions with 2 engine and 1 transmission and 1 fuel options. The all-new Jaguar F-Type is the successor to the legendary E-Type sports car.</string>
+</resources>

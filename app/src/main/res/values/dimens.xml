@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="smallest">4dp</dimen>
+    <dimen name="smaller">8dp</dimen>
+    <dimen name="small">12dp</dimen>
+    <dimen name="big">16dp</dimen>
+    <dimen name="bigger">20dp</dimen>
+    <dimen name="biggest">24dp</dimen>
+    <dimen name="large">28dp</dimen>
+    <dimen name="larger">32dp</dimen>
+    <dimen name="largest">36dp</dimen>
+
+    <dimen name="height_car_image">70dp</dimen>
+    <dimen name="height_rating_in_card">40dp</dimen>
+
+    <dimen name="width_car_image">100dp</dimen>
+    <dimen name="width_rating_in_card">120dp</dimen>
+
+    <dimen name="text_size_car_name">20sp</dimen>
+    <dimen name="text_size_sub_details">16sp</dimen>
+    <dimen name="text_size_description">14sp</dimen>
+
+    <dimen name="margin_share_button_top">-56dp</dimen>
+
+</resources>
